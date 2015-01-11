@@ -1,0 +1,4 @@
+solr
+solrpy
+scikit-learn
+scipy
